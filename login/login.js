@@ -42,9 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const signInButton = document.getElementById('signInButton');
     signInButton.addEventListener('click', function() {
       const validUsers = [
-        { username: 'Aisyah', password: 'care203' },
-        { username: 'Yessa', password: 'care203' },
-        { username: 'Ragil', password: 'care203' }
+        { username: 'Imam', password: 'care203' }
       ];
       const username = document.querySelector('.sign-in-container input[type="text"]').value;
       const password = document.querySelector('.sign-in-container input[type="password"]').value;
