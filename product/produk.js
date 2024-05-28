@@ -43,7 +43,7 @@ function orderNow() {
 
   var message = "Pesanan Anda:\n" + ProducteName + "\nHarga Satuan: " + price + "\nHarga Total: " + (price * quantity); 
 
-  var adminPhoneNumber = "6285843806344";
+  var adminPhoneNumber = "6285788322061";
   var whatsappURL = "https://api.whatsapp.com/send?phone=" + adminPhoneNumber + "&text=" + encodeURIComponent(message);
 
   window.open(whatsappURL);
@@ -98,7 +98,7 @@ function orderNow2 (){
 
   var message = "Pesanan Anda : \n" + ProducteNameKedua + "\nHarga satuan : " + priceKedua + "\nHarga Total : " + (priceKedua * quantityKedua);
 
-  var adminPhoneNumber = "6285843806344";
+  var adminPhoneNumber = "6285788322061";
   var whatsappURL = "https://api.whatsapp.com/send?phone=" + adminPhoneNumber + "&text=" + encodeURIComponent(message);
   
   window.open(whatsappURL);
@@ -155,7 +155,7 @@ function orderNow3 (){
 
   var message = "Pesanan Anda : \n" + ProducteNameketiga + "\nHarga satuan : " + priceketiga + "\nHarga Total : " + (priceketiga * quantityketiga);
 
-  var adminPhoneNumber = "6281377000329";
+  var adminPhoneNumber = "6285788322061";
   var whatsappURL = "https://api.whatsapp.com/send?phone=" + adminPhoneNumber + "&text=" + encodeURIComponent(message);
   
   window.open(whatsappURL);
@@ -212,7 +212,7 @@ function orderNow4 (){
 
   var message = "Pesanan Anda : \n" + ProducteNamekeempat + "\nHarga satuan : " + pricekeempat + "\nHarga Total : " + (pricekeempat * quantitykeempat);
 
-  var adminPhoneNumber = "6282378587900";
+  var adminPhoneNumber = "6285788322061";
   var whatsappURL = "https://api.whatsapp.com/send?phone=" + adminPhoneNumber + "&text=" + encodeURIComponent(message);
   
   window.open(whatsappURL);

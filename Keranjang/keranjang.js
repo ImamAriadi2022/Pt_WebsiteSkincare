@@ -225,7 +225,7 @@ hapusButtons.forEach(function(button) {
         "Total Harga: Rp" + totalHarga;
 
 // Membuat URL untuk WhatsApp
-var adminPhoneNumber = "6281377000329"; // Nomor WhatsApp admin
+var adminPhoneNumber = "6285788322061"; // Nomor WhatsApp admin
 var whatsappURL = "https://api.whatsapp.com/send?phone=" + adminPhoneNumber + "&text=" + encodeURIComponent(message);
 
 // Buka jendela WhatsApp
