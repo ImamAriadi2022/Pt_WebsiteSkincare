@@ -1,0 +1,122 @@
+.logo {
+    width: 70px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+
+.navbar-kanan {
+    padding:  15px;
+    padding-bottom: 3px;
+}
+
+.detil-navbar-kanan {
+    padding: 14px;
+    padding-top: 7px;
+    padding-bottom: 3px;
+}
+
+nav{
+   background:  linear-gradient(to bottom, #fefbf5 50%, #303a53 50%);
+}
+
+
+.text1 {
+    color: #fefbf5;
+    text-decoration: none;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text2:hover {
+    color: #e3bca9;
+}
+
+.text2 {
+    color: #303a53;
+    text-decoration: none;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text1:hover{
+    color: #e3bca9;
+}
+
+
+.footer {
+    background-color: #303a53;
+}
+
+.footer-head {
+    color: #fefbf5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-footer {
+    text-decoration: none;
+    color:#fefbf5;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal
+}
+
+.text-footer:hover {
+    color: #e3bca9;
+}
+
+.ukuran-section-pertama {
+    width: 100rem;
+
+}
+
+.ukuran-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.judul-section-kedua{
+   font-family: 'Courier New', Courier, monospace;
+   font-style: normal;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: aliceblue;
+   padding-top: 4rem;
+}
+
+
+.style-card {
+    font-display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    color: #fefbf5;
+}
+.line2 {
+    color: #303a53;
+}
+
+.garis {
+        display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.judul-section-tiga{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 7rem;
+}
+
+
+.section3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
